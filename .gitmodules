@@ -1,3 +1,4 @@
 [submodule "leg"]
 	path = leg
 	url = https://github.com/ctaodream/leg.git
+	ignore = dirty
